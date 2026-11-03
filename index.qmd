@@ -13,12 +13,12 @@ Become a marine biologist.
 
 ## Education
 
-University of New Hampshire:
+# University of New Hampshire:
 Master's of Science - Communication Sciences & Disorders
 Bachelor's of Science - Communication Sciences & Disorders
 
-Relevant Coursework:
-University of New Hampshire:
+# Relevant Coursework:
+# University of New Hampshire:
 2026:
 - BIOL 806: Data Analysis with R for the Life Sciences
 - MEFB Marine Mammal Biology & Conservation
@@ -28,7 +28,7 @@ University of New Hampshire:
 2022:
 - ZOOL 542: Ornithology
 
-Keene State College:
+# Keene State College:
 - BIOL 110: Cells & Molecules
 - BIOL 111: Ecology & Evolution
 

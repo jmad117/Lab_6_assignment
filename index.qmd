@@ -20,13 +20,13 @@ Become a wildlife biologist.
 **Relevant Coursework:**
 
 *University of New Hampshire:*
-- BIOL 806: Data Analysis with R for the Life Sciences
-- MEFB Marine Mammal Biology & Conservation
-- BIOL 755: Biological Oceanography
-- MEF 501: Introduction to Marine Biology
-- ZOOL 542: Ornithology
+- BIOL 806: Data Analysis with R for the Life Sciences,
+- MEFB Marine Mammal Biology & Conservation,
+- BIOL 755: Biological Oceanography,
+- MEF 501: Introduction to Marine Biology,
+- ZOOL 542: Ornithology.
 
-# Keene State College:
+*Keene State College:*
 - BIOL 110: Cells & Molecules
 - BIOL 111: Ecology & Evolution
 

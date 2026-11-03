@@ -14,8 +14,9 @@ Become a marine biologist.
 ## Education
 
 # University of New Hampshire:
-Master's of Science - Communication Sciences & Disorders
-Bachelor's of Science - Communication Sciences & Disorders
+
+list(Master's of Science - Communication Sciences & Disorders,
+Bachelor's of Science - Communication Sciences & Disorders)
 
 # Relevant Coursework:
 # University of New Hampshire:

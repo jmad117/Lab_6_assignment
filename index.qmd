@@ -13,20 +13,17 @@ Become a wildlife biologist.
 
 ## Education
 
-**University of New Hampshire:**
+# University of New Hampshire:
 - Master's of Science - Communication Sciences & Disorders
 - Bachelor's of Science - Communication Sciences & Disorders
 
 **Relevant Coursework:**
 
 *University of New Hampshire:*
-**2026:**
 - BIOL 806: Data Analysis with R for the Life Sciences
 - MEFB Marine Mammal Biology & Conservation
 - BIOL 755: Biological Oceanography
-**2025:**
 - MEF 501: Introduction to Marine Biology
-**2022:**
 - ZOOL 542: Ornithology
 
 # Keene State College:

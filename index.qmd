@@ -18,6 +18,7 @@ Become a wildlife biologist.
 - Bachelor's of Science - Communication Sciences & Disorders
 
 **Relevant Coursework:**
+
 *University of New Hampshire:*
 **2026:**
 - BIOL 806: Data Analysis with R for the Life Sciences
@@ -28,7 +29,7 @@ Become a wildlife biologist.
 **2022:**
 - ZOOL 542: Ornithology
 
-*Keene State College:*
+# Keene State College:
 - BIOL 110: Cells & Molecules
 - BIOL 111: Ecology & Evolution
 

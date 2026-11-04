@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "story.html",
+    "href": "story.html",
+    "title": "My Story",
+    "section": "",
+    "text": "XXXX"
+  },
+  {
+    "objectID": "story.html#my-journey",
+    "href": "story.html#my-journey",
+    "title": "My Story",
+    "section": "",
+    "text": "XXXX"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -11,13 +25,34 @@
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nHere is an update to my project!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Ultimately, my goal is to contribute to the conservation of wildlife and their habitats while also spreading awareness of animal welfare and conservation issues with the public. In recent years, that has meant volunteering weekly, taking on relevant internships, and learning as much as, so I can cultivate adequate knowledge and skills to accomplish. My mid-term goal is to be accepted into a wildlife biology and conservation master’s program and then complete a career transition into the conservation field.\n\n\n\nUniversity of New Hampshire: Master’s of Science - Communication Sciences & Disorders, Bachelor’s of Science - Communication Sciences & Disorders\nRelevant Coursework:\nUniversity of New Hampshire: BIOL 806: Data Analysis with R for the Life Sciences, MEFB Marine Mammal Biology & Conservation, BIOL 755: Biological Oceanography, MEF 501: Introduction to Marine Biology, ZOOL 542: Ornithology.\nKeene State College: BIOL 110: Cells & Molecules, BIOL 111: Ecology & Evolution\n\n\n\n\nClearly Speaking - State and ASHA Certified Speech & Language Pathologist\nSEABabel Lab, UNH - Lab volunteer\nNew Hampshire Turtle Rescue - Wildlife Rehabilitation Technician & Community Volunteer\nSeacoast Science Center - Marine Mammal Rescue Intern & Exhibit Hall Volunteer\nZoo New England - Field Work Volunteer\nNew Hampshire Audubon Society - Project Nighthawk Volunteer\nKitty Rescue & Adoption - Community Volunteer\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Ultimately, my goal is to contribute to the conservation of wildlife and their habitats while also spreading awareness of animal welfare and conservation issues with the public. In recent years, that has meant volunteering weekly, taking on relevant internships, and learning as much as, so I can cultivate adequate knowledge and skills to accomplish. My mid-term goal is to be accepted into a wildlife biology and conservation master’s program and then complete a career transition into the conservation field."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of New Hampshire: Master’s of Science - Communication Sciences & Disorders, Bachelor’s of Science - Communication Sciences & Disorders\nRelevant Coursework:\nUniversity of New Hampshire: BIOL 806: Data Analysis with R for the Life Sciences, MEFB Marine Mammal Biology & Conservation, BIOL 755: Biological Oceanography, MEF 501: Introduction to Marine Biology, ZOOL 542: Ornithology.\nKeene State College: BIOL 110: Cells & Molecules, BIOL 111: Ecology & Evolution"
+  },
+  {
+    "objectID": "index.html#work-volunteer-experience",
+    "href": "index.html#work-volunteer-experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Clearly Speaking - State and ASHA Certified Speech & Language Pathologist\nSEABabel Lab, UNH - Lab volunteer\nNew Hampshire Turtle Rescue - Wildlife Rehabilitation Technician & Community Volunteer\nSeacoast Science Center - Marine Mammal Rescue Intern & Exhibit Hall Volunteer\nZoo New England - Field Work Volunteer\nNew Hampshire Audubon Society - Project Nighthawk Volunteer\nKitty Rescue & Adoption - Community Volunteer"
   }
 ]
